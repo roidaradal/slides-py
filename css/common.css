@@ -1,0 +1,19 @@
+.reveal .slides span.hat{
+    font-size:70%;
+    font-weight:bold;
+    position:relative;
+    top:-1em;
+    left:-0.6em;
+}
+.reveal .slides sub,.reveal .slides sup{
+    font-size:70%;
+}
+.reveal .slides{
+    font-size: 125%;
+}
+
+.reveal .slides label.reference{
+    font-size:50%;
+    color: green;
+}
+
